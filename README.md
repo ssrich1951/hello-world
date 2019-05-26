@@ -6,4 +6,4 @@ but could be useful for creating and sharing documents
 
 I think
 
-THerefore, I am!
+Therefore, I am!
